@@ -1,0 +1,9 @@
+{
+  "secret_number": 42,
+  "min_num": 1,
+  "max_num": 100,
+  "max_attempts": 10,
+  "attempts_made": 3,
+  "previous_guesses": [15, 30, 45],
+  "start_time": "2024-01-15T10:30:00"
+}
